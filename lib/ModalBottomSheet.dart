@@ -8,7 +8,7 @@ dynamic modalBottomSheet(context, snapshot, i) {
           alignment: Alignment.bottomCenter,
           decoration: BoxDecoration(
               color: Colors.white,
-              borderRadius: BorderRadius.vertical(top: Radius.circular(50.0))),
+              borderRadius: BorderRadius.vertical(top: Radius.circular(20.0))),
           child: Column(
             children: [
               Row(

@@ -5,6 +5,7 @@ ThemeData darkTheme() {
     accentColor: Colors.teal[400],
     backgroundColor: Colors.black87,
     primaryColor: Colors.black,
+    canvasColor: Colors.transparent,
     appBarTheme: AppBarTheme(
       backgroundColor: Colors.teal[400],
       shadowColor: Colors.teal[400],
@@ -20,6 +21,7 @@ ThemeData lightTheme() {
     accentColor: Colors.pink[200],
     primaryColor: Colors.white,
     backgroundColor: Colors.white,
+    canvasColor: Colors.transparent,
     appBarTheme: AppBarTheme(
       backgroundColor: Colors.pink[200],
       shadowColor: Colors.pink[200],
